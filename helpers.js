@@ -17,13 +17,13 @@
 */
 
 function successfullMessage(msg) {
-    return "✅ *spirit-ser*:  ```" + msg + "```"
+    return "✅ *SPIRIT-SER*:  ```" + msg + "```"
 }
 function errorMessage(msg) {
-    return "🛑 *spirit-ser*:  ```" + msg + "```"
+    return "🛑 *SPIRIT-SER*:  ```" + msg + "```"
 }
 function infoMessage(msg) {
-    return "⏺️ *spirit-ser*:  ```" + msg + "```"
+    return "⏺️ *SPIRIT-SER*:  ```" + msg + "```"
 }
 
 
